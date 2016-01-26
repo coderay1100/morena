@@ -303,6 +303,8 @@ class Pdf extends fpdf
 			//line Income
 			$x = 110;
 			if($fixAllowance != 0): $x = $x + 6; endif;
+			if($meal != 0): $x = $x + 6; endif;
+			if($transport != 0): $x = $x + 6; endif;
 			if($Pulse != 0): $x = $x + 6; endif;
 			if($overtime != 0): $x = $x + 6; endif;
 			if($Bonus != 0): $x = $x + 6; endif;
@@ -311,6 +313,7 @@ class Pdf extends fpdf
 			if($incentive != 0): $x = $x + 6; endif;
 			if($jobAllowance != 0): $x = $x + 6; endif;
 			if($houseAllowance != 0): $x = $x + 6; endif;
+			if($taskForceAllowance != 0): $x = $x + 6; endif;
 			if($separationPay != 0): $x = $x + 6; endif;
 			
 			if($OPEX != 0 or $COC != 0): $x = $x + 6; endif;
@@ -368,7 +371,7 @@ class Pdf extends fpdf
 				$this->Cell(42,6,"",0,0,'L');
 				$this->Cell(52,6,"Fix Allowance",0,0,'L');
 				$this->Cell(11,6,": Rp.",0,0,'L');
-				$this->Cell(29,6,(number_format($fixAllowance,2,',','.').',00'),0,0,'R');
+				$this->Cell(29,6,(number_format($fixAllowance,2,',','.').''),0,0,'R');
 
 			endif;
 
@@ -379,7 +382,7 @@ class Pdf extends fpdf
 				$this->Cell(42,6,"",0,0,'L');
 				$this->Cell(52,6,"Meal",0,0,'L');
 				$this->Cell(11,6,": Rp.",0,0,'L');
-				$this->Cell(29,6,(number_format($meal,2,',','.').',00'),0,0,'R');
+				$this->Cell(29,6,(number_format($meal,2,',','.').''),0,0,'R');
 
 			endif;
 
@@ -390,7 +393,7 @@ class Pdf extends fpdf
 				$this->Cell(42,6,"",0,0,'L');
 				$this->Cell(52,6,"Transportation",0,0,'L');
 				$this->Cell(11,6,": Rp.",0,0,'L');
-				$this->Cell(29,6,(number_format($transport,2,',','.').',00'),0,0,'R');
+				$this->Cell(29,6,(number_format($transport,2,',','.').''),0,0,'R');
 
 			endif;
 
