@@ -1,0 +1,13 @@
+<?php /* @var $this Controller */ ?>
+<?php $this->beginContent('//layouts/main'); ?>
+<img src="<?php echo Yii::app()->request->baseUrl.'/images/logo_header_e-payroll.jpg'; ?> " alt="Mountain View" style="width:100%;">
+<div style="background-color:white;">
+	<?php echo $content; ?>
+	<div class="clear" ></div>
+	<div id="footer">
+		Copyright &copy; <?php echo date('Y'); ?> by PT. Prawathiya Karsa Pradiphta<br/>
+		All Rights Reserved.<br/>
+		<?php echo Yii::powered(); ?>
+	</div><!-- footer -->
+</div><!-- content -->
+<?php $this->endContent(); ?>

@@ -1,0 +1,1671 @@
+2015/08/21 10:58:53 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:58:53 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:58:53 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:58:53 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:58:53 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:00 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:00 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:00 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:00 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:00 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:04 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:04 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:04 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:04 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:04 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:21 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:21 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:21 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:21 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:21 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:39 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:39 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:39 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:39 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 10:59:39 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 11:00:03 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 11:00:03 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 11:00:03 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 11:00:03 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 11:00:03 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (172)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/08/21 11:00:07 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (175)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:00:07 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (175)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:00:07 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (175)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:00:07 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (175)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:00:07 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (175)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:00:07 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1364 Field 'username' doesn't have a default value. The SQL statement executed was: INSERT INTO `users` (`activkey`, `lastvisit_at`, `superuser`, `status`, `password`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (181)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:00:07 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 1364 Field 'username' doesn't have a default value. The SQL statement executed was: INSERT INTO `users` (`activkey`, `lastvisit_at`, `superuser`, `status`, `password`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in /var/www/html/yii/framework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/html/yii/framework/db/ar/CActiveRecord.php(1017): CDbCommand->execute()
+#1 /var/www/html/yii/framework/db/ar/CActiveRecord.php(796): CActiveRecord->insert(NULL)
+#2 /var/www/html/morena/protected/modules/user/controllers/AdminController.php(181): CActiveRecord->save()
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(50): AdminController->actionCreate()
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('create')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('user/admin/crea...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=user/admin/create
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=user/admin/create
+---
+2015/08/21 11:12:40 [warning] [application] Failed to set unsafe attribute "filee" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (53)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:34 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:34 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:34 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:34 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:34 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:34 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:34 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:36 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:36 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:36 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:36 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:36 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:36 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:36 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:38 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:38 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:38 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:38 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:38 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:38 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:38 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:39 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:39 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:39 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:39 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:39 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:39 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:39 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:43 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:43 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:43 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:43 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:43 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:43 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/21 11:13:43 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/24 14:14:03 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /var/www/html/morena/protected/controllers/ListgajiController.php (104)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/08/24 15:53:05 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/html/morena/protected/modules/rights/components/RController.php:62
+Stack trace:
+#0 /var/www/html/morena/protected/modules/rights/components/RightsFilter.php(57): RController->accessDenied()
+#1 /var/www/html/yii/framework/web/filters/CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#6 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('')
+#8 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji')
+#9 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /var/www/html/morena/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/morena/index.php?r=listgaji
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=user/profile
+---
+2015/08/24 15:53:18 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/html/morena/protected/modules/rights/components/RController.php:62
+Stack trace:
+#0 /var/www/html/morena/protected/modules/rights/components/RightsFilter.php(57): RController->accessDenied()
+#1 /var/www/html/yii/framework/web/filters/CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#6 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('')
+#8 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji')
+#9 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /var/www/html/morena/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/morena/index.php?r=listgaji
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=user/profile
+---
+2015/08/24 15:53:38 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/html/morena/protected/modules/rights/components/RController.php:62
+Stack trace:
+#0 /var/www/html/morena/protected/modules/rights/components/RightsFilter.php(57): RController->accessDenied()
+#1 /var/www/html/yii/framework/web/filters/CFilter.php(39): RightsFilter->preFilter(Object(CFilterChain))
+#2 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#3 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#4 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#6 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('')
+#8 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji')
+#9 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /var/www/html/morena/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/morena/index.php?r=listgaji
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=user/admin
+---
+2015/08/24 15:53:41 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/html/yii/framework/web/auth/CAccessControlFilter.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/auth/CAccessControlFilter.php(133): CAccessControlFilter->accessDenied(Object(RWebUser), 'You are not aut...')
+#1 /var/www/html/yii/framework/web/filters/CFilter.php(39): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/html/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#3 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#6 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('')
+#8 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('rights')
+#9 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#10 /var/www/html/morena/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/morena/index.php?r=rights
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=user/admin
+---
+2015/09/23 08:53:35 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /var/www/html/morena/protected/controllers/ListgajiController.php (104)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:11 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:11 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:11 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:11 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:11 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:11 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:11 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:23 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:23 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:23 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:23 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:23 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:23 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:23 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:31 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:31 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:31 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:31 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:31 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:31 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:31 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:37 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:37 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:37 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:37 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:37 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:37 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:37 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:44 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:44 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:44 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:44 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:44 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:44 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:44 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:49 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:49 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:49 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:49 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:49 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:49 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:09:49 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:10:48 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:10:48 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:10:48 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:10:48 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:10:48 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:10:48 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:10:48 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:02 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:02 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:02 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:02 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:02 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:02 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:02 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:06 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:06 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:06 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:06 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:06 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:06 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/12 16:11:06 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:40:49 [warning] [application] Failed to set unsafe attribute "filee" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (53)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:03 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:03 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:03 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:03 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:03 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:03 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:03 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:13 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:13 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:13 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:13 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:13 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:13 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:13 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:34 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:34 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:34 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:34 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:34 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:34 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:34 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:36 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:36 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:36 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:36 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:36 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:36 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:36 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:38 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:38 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:38 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:38 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:38 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:38 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:38 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:39 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:39 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:39 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:39 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:39 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:39 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:41:39 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 09:46:08 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /var/www/html/morena/protected/controllers/ListgajiController.php (104)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/10/23 10:23:21 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('2015910146')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2015', '9', '10146')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2015&month=9&nip=10146
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji/mySlip
+---
+2015/11/23 10:23:30 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:30 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:30 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:30 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:30 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:30 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:30 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:41 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:41 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:41 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:41 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:41 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:41 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:41 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:46 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:46 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:46 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:46 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:46 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:46 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:46 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:52 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:52 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:52 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:52 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:52 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:52 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:52 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:55 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:55 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:55 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:55 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:55 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:55 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:55 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:58 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:58 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:58 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:58 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:58 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:58 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:23:58 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:25:29 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (206)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:25:29 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (206)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:25:29 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (206)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:25:29 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (206)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:25:29 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (206)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 10:25:30 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (203)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/11/23 10:25:30 [warning] [application] Failed to set unsafe attribute "password" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (203)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/11/23 10:25:30 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (203)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/11/23 10:25:30 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (203)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/11/23 10:25:30 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (257)
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (203)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+2015/11/23 14:25:49 [warning] [application] Failed to set unsafe attribute "filee" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (53)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:38 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:38 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:38 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:38 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:38 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:38 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:38 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:42 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:42 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:42 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:42 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:42 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:42 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/23 14:26:42 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/24 08:36:42 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /var/www/html/morena/protected/controllers/ListgajiController.php (104)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:10:55 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:10:55 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:10:55 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:10:55 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:10:55 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:10:55 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:10:55 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:06 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:06 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:06 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:06 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:06 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:06 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:06 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:09 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:09 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:09 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:09 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:09 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:09 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/11/25 09:11:09 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/16 09:20:02 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('20141210034')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2014', '12', '10034')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2014&month=12&nip=10034
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji%2FmySlip&month=12&year=2014
+---
+2015/12/16 09:20:41 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('20141210034')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2014', '12', '10034')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2014&month=12&nip=10034
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji/mySlip
+---
+2015/12/16 09:22:03 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('20141210034')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2014', '12', '10034')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2014&month=12&nip=10034
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji%2FmySlip&month=1&year=2015
+---
+2015/12/16 09:22:22 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('2015110034')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2015', '1', '10034')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2015&month=1&nip=10034
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji/mySlip
+---
+2015/12/17 08:38:35 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /var/www/html/morena/protected/controllers/ListgajiController.php (104)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:39 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:39 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:39 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:39 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:39 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:39 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:39 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:56 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:56 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:56 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:56 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:56 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:56 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:06:56 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:02 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:02 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:02 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:02 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:02 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:02 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:02 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:05 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:05 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:05 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:05 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:05 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:05 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:05 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:08 [warning] [application] Failed to set unsafe attribute "id" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:08 [warning] [application] Failed to set unsafe attribute "username" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:08 [warning] [application] Failed to set unsafe attribute "email" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:08 [warning] [application] Failed to set unsafe attribute "create_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:08 [warning] [application] Failed to set unsafe attribute "lastvisit_at" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:08 [warning] [application] Failed to set unsafe attribute "superuser" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 14:07:08 [warning] [application] Failed to set unsafe attribute "status" of "User".
+in /var/www/html/morena/protected/modules/user/controllers/AdminController.php (130)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2015/12/17 18:43:38 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('2014110041')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2014', '1', '10041')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2014&month=1&nip=10041
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji/mySlip
+---
+2015/12/17 18:44:04 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('2015110041')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2015', '1', '10041')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2015&month=1&nip=10041
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji/mySlip
+---
+2015/12/17 18:46:34 [error] [exception.CHttpException.772] exception 'CHttpException' with message 'Salary Slip cannot be found in Database, please check NIP, Year, or Month in Payroll Management.' in /var/www/html/morena/protected/controllers/ListgajiController.php:443
+Stack trace:
+#0 /var/www/html/morena/protected/controllers/ListgajiController.php(379): ListgajiController->loadModelPdfAdmin('2015410041')
+#1 [internal function]: ListgajiController->actionPdfAdmin('2015', '4', '10041')
+#2 /var/www/html/yii/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(ListgajiController), Array)
+#3 /var/www/html/yii/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(ListgajiController), Object(ReflectionMethod), Array)
+#4 /var/www/html/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/html/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/html/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/html/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii/framework/web/filters/CInlineFilter.php(59): RController->filterRights(Object(CFilterChain))
+#9 /var/www/html/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/html/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/html/yii/framework/web/CWebApplication.php(283): CController->run('PdfAdmin')
+#13 /var/www/html/yii/framework/web/CWebApplication.php(142): CWebApplication->runController('listgaji/PdfAdm...')
+#14 /var/www/html/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/html/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/morena/index.php?r=listgaji%2FPdfAdmin&year=2015&month=4&nip=10041
+HTTP_REFERER=http://192.168.80.57/morena/index.php?r=listgaji/mySlip
+---
+2016/01/22 15:59:24 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /var/www/html/morena/protected/controllers/ListgajiController.php (104)
+in /var/www/html/morena/protected/modules/rights/components/RController.php (36)
+in /var/www/html/morena/index.php (13)
+2016/01/25 05:34:16 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/views/layouts/column1.php:13)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#1 /Users/rayp/code/yii/framework/web/CController.php(784): SiteController->renderFile()
+#2 /Users/rayp/code/morena/protected/controllers/SiteController.php(33): SiteController->render()
+#3 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Users/rayp/code/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /Users/rayp/code/morena/protected/views/layouts/column1.php (13)
+in /Users/rayp/code/morena/protected/controllers/SiteController.php (33)
+in /Users/rayp/code/morena/index.php (13)
+2016/01/25 05:35:13 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/views/layouts/column1.php:13)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#1 /Users/rayp/code/yii/framework/web/CController.php(784): SiteController->renderFile()
+#2 /Users/rayp/code/morena/protected/controllers/SiteController.php(33): SiteController->render()
+#3 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Users/rayp/code/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in /Users/rayp/code/morena/protected/views/layouts/column1.php (13)
+in /Users/rayp/code/morena/protected/controllers/SiteController.php (33)
+in /Users/rayp/code/morena/index.php (13)
+2016/01/25 05:35:48 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/views/layouts/column1.php:13)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/web/CBaseController.php(95): LoginController->renderInternal()
+#1 /Users/rayp/code/yii/framework/web/CController.php(784): LoginController->renderFile()
+#2 /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php(28): LoginController->render()
+#3 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): LoginController->actionLogin()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/CController.php(286): LoginController->runAction()
+#6 /Users/rayp/code/yii/framework/web/CController.php(265): LoginController->runActionWithFilters()
+#7 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): LoginController->run()
+#8 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=user/login/login
+in /Users/rayp/code/morena/protected/views/layouts/column1.php (13)
+in /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php (28)
+in /Users/rayp/code/morena/index.php (13)
+2016/01/25 05:35:53 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/views/layouts/column1.php:13)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#1 /Users/rayp/code/yii/framework/web/CController.php(784): SiteController->renderFile()
+#2 /Users/rayp/code/yii/framework/web/actions/CViewAction.php(140): SiteController->render()
+#3 /Users/rayp/code/yii/framework/web/actions/CAction.php(76): CViewAction->run()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CViewAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Users/rayp/code/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/page&view=about
+in /Users/rayp/code/morena/protected/views/layouts/column1.php (13)
+in /Users/rayp/code/morena/index.php (13)
+2016/01/25 05:35:54 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/views/layouts/column1.php:13)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/web/CBaseController.php(95): LoginController->renderInternal()
+#1 /Users/rayp/code/yii/framework/web/CController.php(784): LoginController->renderFile()
+#2 /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php(28): LoginController->render()
+#3 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): LoginController->actionLogin()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/CController.php(286): LoginController->runAction()
+#6 /Users/rayp/code/yii/framework/web/CController.php(265): LoginController->runActionWithFilters()
+#7 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): LoginController->run()
+#8 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=user/login/login
+in /Users/rayp/code/morena/protected/views/layouts/column1.php (13)
+in /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php (28)
+in /Users/rayp/code/morena/index.php (13)
+2016/01/25 05:36:57 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/views/layouts/column1.php:13)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#1 /Users/rayp/code/yii/framework/web/CController.php(784): SiteController->renderFile()
+#2 /Users/rayp/code/morena/protected/controllers/SiteController.php(33): SiteController->render()
+#3 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Users/rayp/code/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php
+in /Users/rayp/code/morena/protected/views/layouts/column1.php (13)
+in /Users/rayp/code/morena/protected/controllers/SiteController.php (33)
+in /Users/rayp/code/morena/index.php (13)
+2016/01/25 06:17:29 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/modules/user/models/User.php:198)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/db/ar/CActiveRecord.php(161): User->__set()
+#1 /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php(35): User->__set()
+#2 /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php(20): LoginController->lastViset()
+#3 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): LoginController->actionLogin()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/CController.php(286): LoginController->runAction()
+#6 /Users/rayp/code/yii/framework/web/CController.php(265): LoginController->runActionWithFilters()
+#7 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): LoginController->run()
+#8 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#10 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=user/login/login
+in /Users/rayp/code/morena/protected/modules/user/models/User.php (198)
+in /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php (35)
+in /Users/rayp/code/morena/protected/modules/user/controllers/LoginController.php (20)
+2016/01/25 06:17:33 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/views/layouts/column2.php:13)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/web/CBaseController.php(95): ProfileController->renderInternal()
+#1 /Users/rayp/code/yii/framework/web/CController.php(784): ProfileController->renderFile()
+#2 /Users/rayp/code/morena/protected/modules/user/controllers/ProfileController.php(27): ProfileController->render()
+#3 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): ProfileController->actionProfile()
+#4 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/rayp/code/yii/framework/web/filters/CFilterChain.php(133): ProfileController->runAction()
+#6 /Users/rayp/code/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Users/rayp/code/morena/protected/modules/rights/components/RController.php(36): RightsFilter->filter()
+#8 /Users/rayp/code/yii/framework/web/filters/CInlineFilter.php(58): ProfileController->filterRights()
+#9 /Users/rayp/code/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#10 /Users/rayp/code/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Users/rayp/code/yii/framework/web/CController.php(265): ProfileController->runActionWithFilters()
+#12 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): ProfileController->run()
+#13 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=user/profile/profile
+in /Users/rayp/code/morena/protected/views/layouts/column2.php (13)
+in /Users/rayp/code/morena/protected/modules/user/controllers/ProfileController.php (27)
+in /Users/rayp/code/morena/protected/modules/rights/components/RController.php (36)
+2016/01/25 06:17:39 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/rayp/code/morena/protected/modules/user/models/User.php:60)
+Stack trace:
+#0 /Users/rayp/code/yii/framework/base/CModel.php(260): User->createValidators()
+#1 /Users/rayp/code/yii/framework/web/helpers/CHtml.php(2435): User->getValidators()
+#2 /Users/rayp/code/yii/framework/web/helpers/CHtml.php(1533): activeInputField()
+#3 /Users/rayp/code/yii/framework/web/widgets/CActiveForm.php(792): activeTextField()
+#4 /Users/rayp/code/morena/protected/modules/user/views/admin/_search.php(10): CActiveForm->textField()
+#5 /Users/rayp/code/yii/framework/web/CBaseController.php(126): require()
+#6 /Users/rayp/code/yii/framework/web/CBaseController.php(95): AdminController->renderInternal()
+#7 /Users/rayp/code/yii/framework/web/CController.php(869): AdminController->renderFile()
+#8 /Users/rayp/code/morena/protected/modules/user/views/admin/index.php(60): AdminController->renderPartial()
+#9 /Users/rayp/code/yii/framework/web/CBaseController.php(126): require()
+#10 /Users/rayp/code/yii/framework/web/CBaseController.php(95): AdminController->renderInternal()
+#11 /Users/rayp/code/yii/framework/web/CController.php(869): AdminController->renderFile()
+#12 /Users/rayp/code/yii/framework/web/CController.php(782): AdminController->renderPartial()
+#13 /Users/rayp/code/morena/protected/modules/user/controllers/AdminController.php(139): AdminController->render()
+#14 /Users/rayp/code/yii/framework/web/actions/CInlineAction.php(49): AdminController->actionAdmin()
+#15 /Users/rayp/code/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#16 /Users/rayp/code/yii/framework/web/filters/CFilterChain.php(133): AdminController->runAction()
+#17 /Users/rayp/code/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#18 /Users/rayp/code/morena/protected/modules/rights/components/RController.php(36): RightsFilter->filter()
+#19 /Users/rayp/code/yii/framework/web/filters/CInlineFilter.php(58): AdminController->filterRights()
+#20 /Users/rayp/code/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#21 /Users/rayp/code/yii/framework/web/CController.php(291): CFilterChain->run()
+#22 /Users/rayp/code/yii/framework/web/CController.php(265): AdminController->runActionWithFilters()
+#23 /Users/rayp/code/yii/framework/web/CWebApplication.php(282): AdminController->run()
+#24 /Users/rayp/code/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#25 /Users/rayp/code/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#26 /Users/rayp/code/morena/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=user/admin/admin
+in /Users/rayp/code/morena/protected/modules/user/models/User.php (60)
+in /Users/rayp/code/morena/protected/modules/user/views/admin/_search.php (10)
+in /Users/rayp/code/morena/protected/modules/user/views/admin/index.php (60)
+2016/01/25 14:52:26 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /Users/rayp/code/morena/protected/controllers/ListgajiController.php (104)
+in /Users/rayp/code/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morena/index.php (13)
