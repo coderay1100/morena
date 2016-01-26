@@ -60,6 +60,14 @@
 			<td style="text-align:right;"><b>Fix Allowance</b></td>
 			<td><?php echo $form->textFieldControlGroup($model,'fixAllowance',array('label'=>'','span'=>2)); ?></td>
 		</tr>
+		<tr class="even">
+			<td style="text-align:right;"><b>Meal</b></td>
+			<td><?php echo $form->textFieldControlGroup($model,'meal',array('label'=>'','span'=>2)); ?></td>
+		</tr>
+		<tr class="even">
+			<td style="text-align:right;"><b>Transport</b></td>
+			<td><?php echo $form->textFieldControlGroup($model,'transport',array('label'=>'','span'=>2)); ?></td>
+		</tr>
 		<tr class="odd">
 			<td style="text-align:right;"><b>Pulse</b></td>
 			<td><?php echo $form->textFieldControlGroup($model,'pulse',array('label'=>'','span'=>2)); ?></td>
@@ -99,6 +107,10 @@
 		<tr class="odd">
 			<td style="text-align:right;"><b>House Allowance</b></td>
 			<td><?php echo $form->textFieldControlGroup($model,'houseAllowance',array('label'=>'','span'=>2)); ?></td>
+		</tr>
+		<tr class="odd">
+			<td style="text-align:right;"><b>Task Force Allowance</b></td>
+			<td><?php echo $form->textFieldControlGroup($model,'taskForceAllowance',array('label'=>'','span'=>2)); ?></td>
 		</tr>
 		<tr class="odd">
 			<td style="text-align:right;"><b>Maternity Allowance</b></td>
