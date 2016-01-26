@@ -180,7 +180,7 @@ echo TbHtml::breadcrumbs(array(
 		</tr>
 		<?php endif; ?>
 		<tr class="even">
-		<?php $totalPendapatan = $model->grossSalary+$model->fixAllowance+$model->pulse+$model->medicalAllowance+$model->overtime+$model->bonus+$model->thr+$model->correctionPlus+$model->incentive+$model->jobAllowance+$model->marriageAllowance+$model->houseAllowance+$model->maternityAllowance+$model->glassesAllowance+$model->condolanceAllowance+$model->separationPay+$model->opex+$model->coc; ?>
+		<?php $totalPendapatan = $model->grossSalary+$model->fixAllowance+$model->pulse+$model->medicalAllowance+$model->overtime+$model->bonus+$model->thr+$model->correctionPlus+$model->incentive+$model->jobAllowance+$model->marriageAllowance+$model->houseAllowance+$model->maternityAllowance+$model->glassesAllowance+$model->condolanceAllowance+$model->separationPay+$model->opex+$model->coc+$model->meal+$model->transport+$model->taskForceAllowance; ?>
 			<td style="background-color:blue;color:white;"><b>Total Income</b></td>
 			<td style="background-color:blue;color:white;"><?php echo 'Rp. '.number_format($totalPendapatan,2,',','.').',-'; ?></td>
 		</tr>		

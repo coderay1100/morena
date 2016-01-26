@@ -1719,3 +1719,11 @@ in /Users/rayp/code/morenatop/morena/index.php (13)
 in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (39)
 in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
 in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 18:08:57 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (104)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 18:09:22 [warning] [application] Failed to set unsafe attribute "filee" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (104)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)

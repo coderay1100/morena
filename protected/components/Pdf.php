@@ -222,7 +222,7 @@ class Pdf extends fpdf
 		$Total_Pinjaman=($Koperasi+$MCS+$loan);
 		$Total_Pengurang=($Total_Pinjaman+$pph21+$bpjs+$jamsostek+$benefitMin+$copAllowanceMin);
 
-		$Total_Pendapatan_Kotor=($grossSalary+$fixAllowance+$Pulse+$medicalAllowance+$overtime+$Bonus+$thr+$correctionPlus+$incentive+$jobAllowance+$marriageAllowance+$houseAllowance+$maternityAllowance+$glassesAllowance+$condolanceAllowance+$separationPay+$COC+$OPEX);
+		$Total_Pendapatan_Kotor=($grossSalary+$fixAllowance+$Pulse+$medicalAllowance+$overtime+$Bonus+$thr+$correctionPlus+$incentive+$jobAllowance+$marriageAllowance+$houseAllowance+$maternityAllowance+$glassesAllowance+$condolanceAllowance+$separationPay+$COC+$OPEX+$meal+$transport+$taskForceAllowance);
 		
 		$Total_Gaji=($Total_Pendapatan_Kotor-$Total_Pengurang);
 		
