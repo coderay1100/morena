@@ -1669,3 +1669,53 @@ in /Users/rayp/code/morena/protected/modules/user/views/admin/index.php (60)
 in /Users/rayp/code/morena/protected/controllers/ListgajiController.php (104)
 in /Users/rayp/code/morena/protected/modules/rights/components/RController.php (36)
 in /Users/rayp/code/morena/index.php (13)
+2016/01/26 17:22:32 [warning] [application] Failed to set unsafe attribute "meal" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (39)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 17:22:32 [warning] [application] Failed to set unsafe attribute "transport" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (39)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 17:22:32 [warning] [application] Failed to set unsafe attribute "taskForceAllowance" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (39)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 17:22:32 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '0000-00-00 00:00:00' for column 'updatedTimeStamp' at row 1. The SQL statement executed was: INSERT INTO `listgaji` (`grossSalary`, `fixAllowance`, `pulse`, `medicalAllowance`, `overtime`, `bonus`, `thr`, `correctionPlus`, `incentive`, `jobAllowance`, `marriageAllowance`, `houseAllowance`, `maternityAllowance`, `glassesAllowance`, `condolanceAllowance`, `separationPay`, `opex`, `coc`, `pph21`, `jamsostek`, `bpjs`, `benefitMin`, `copAllowanceMin`, `koperasi`, `mcs`, `loan`, `state`, `createdTimeStamp`, `updatedTimeStamp`, `meal`, `transport`, `taskForceAllowance`, `year`, `month`, `nip`, `workDays`, `noSlipGaji`, `createdBy`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12, :yp13, :yp14, :yp15, :yp16, :yp17, :yp18, :yp19, :yp20, :yp21, :yp22, :yp23, :yp24, :yp25, :yp26, :yp27, :yp28, :yp29, :yp30, :yp31, :yp32, :yp33, :yp34, :yp35, :yp36, :yp37).
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (44)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 17:22:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '0000-00-00 00:00:00' for column 'updatedTimeStamp' at row 1. The SQL statement executed was: INSERT INTO `listgaji` (`grossSalary`, `fixAllowance`, `pulse`, `medicalAllowance`, `overtime`, `bonus`, `thr`, `correctionPlus`, `incentive`, `jobAllowance`, `marriageAllowance`, `houseAllowance`, `maternityAllowance`, `glassesAllowance`, `condolanceAllowance`, `separationPay`, `opex`, `coc`, `pph21`, `jamsostek`, `bpjs`, `benefitMin`, `copAllowanceMin`, `koperasi`, `mcs`, `loan`, `state`, `createdTimeStamp`, `updatedTimeStamp`, `meal`, `transport`, `taskForceAllowance`, `year`, `month`, `nip`, `workDays`, `noSlipGaji`, `createdBy`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12, :yp13, :yp14, :yp15, :yp16, :yp17, :yp18, :yp19, :yp20, :yp21, :yp22, :yp23, :yp24, :yp25, :yp26, :yp27, :yp28, :yp29, :yp30, :yp31, :yp32, :yp33, :yp34, :yp35, :yp36, :yp37)' in /Users/rayp/code/morenatop/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /Users/rayp/code/morenatop/yii/framework/db/ar/CActiveRecord.php(1080): CDbCommand->execute()
+#1 /Users/rayp/code/morenatop/yii/framework/db/ar/CActiveRecord.php(809): CActiveRecord->insert(NULL)
+#2 /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php(44): CActiveRecord->save()
+#3 /Users/rayp/code/morenatop/yii/framework/web/actions/CInlineAction.php(49): ListgajiController->actionCreate()
+#4 /Users/rayp/code/morenatop/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Users/rayp/code/morenatop/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /Users/rayp/code/morenatop/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php(36): CFilter->filter(Object(CFilterChain))
+#8 /Users/rayp/code/morenatop/yii/framework/web/filters/CInlineFilter.php(58): RController->filterRights(Object(CFilterChain))
+#9 /Users/rayp/code/morenatop/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /Users/rayp/code/morenatop/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Users/rayp/code/morenatop/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Users/rayp/code/morenatop/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#13 /Users/rayp/code/morenatop/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('listgaji/create')
+#14 /Users/rayp/code/morenatop/yii/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /Users/rayp/code/morenatop/morena/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=listgaji/create
+HTTP_REFERER=http://localhost:34567/index.php?r=listgaji/create
+---
+2016/01/26 17:31:37 [warning] [application] Failed to set unsafe attribute "meal" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (39)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 17:31:37 [warning] [application] Failed to set unsafe attribute "transport" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (39)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)
+2016/01/26 17:31:37 [warning] [application] Failed to set unsafe attribute "taskForceAllowance" of "Listgaji".
+in /Users/rayp/code/morenatop/morena/protected/controllers/ListgajiController.php (39)
+in /Users/rayp/code/morenatop/morena/protected/modules/rights/components/RController.php (36)
+in /Users/rayp/code/morenatop/morena/index.php (13)

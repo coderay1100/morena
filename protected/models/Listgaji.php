@@ -14,7 +14,7 @@ class Listgaji extends CActiveRecord
 			array('year, month, nip', 'required'),
 			array('id, workDays, year, month', 'numerical', 'integerOnly'=>true),
 			array('noSlipGaji', 'length', 'max'=>20),
-			array('nip, grossSalary, fixAllowance, medicalAllowance, overtime, bonus, thr, correctionPlus, incentive, jobAllowance, marriageAllowance, houseAllowance, maternityAllowance, glassesAllowance, condolanceAllowance, separationPay, opex, coc, pph21, jamsostek, bpjs, benefitMin, copAllowanceMin, koperasi, mcs, loan', 'length', 'max'=>15),
+			array('nip, grossSalary, fixAllowance, medicalAllowance, overtime, bonus, thr, correctionPlus, incentive, jobAllowance, marriageAllowance, houseAllowance, maternityAllowance, glassesAllowance, condolanceAllowance, separationPay, opex, coc, pph21, jamsostek, bpjs, benefitMin, copAllowanceMin, koperasi, mcs, loan, meal, transport, taskForceAllowance', 'length', 'max'=>15),
 			array('pulse', 'length', 'max'=>10),
 			array('state', 'length', 'max'=>1),
 			array('createdBy, updatedBy', 'length', 'max'=>11),
